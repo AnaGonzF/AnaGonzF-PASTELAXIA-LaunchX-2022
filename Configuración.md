@@ -129,4 +129,4 @@ Adornos disponibles:
 ### Información de la pastelería
 Dirección: VENUSTIANO CARRANZA 4036 NO. 17, VILLA OLIMPICA, 25230, Coahuila, México  
 Teléfono: 844.415-4576/744.428-8729  
-Horarios de antención: Lunes a viernes de 9:00 a 18:00 hrs, sábados y domingos de 10:00 a 17:00 hrs  
+Horarios de antención: Lunes a viernes de 9:00 a 18:00 hrs, sábados y domingos de 10:00 a 17:00 hrs
