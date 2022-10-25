@@ -1,6 +1,6 @@
 # PASTELAXIA
 
-![PASTELAXIA LOGO](/RESOURCES/Logotipo%20cc%20positivo.png)
+![PASTELAXIA LOGO](/RESOURCES/Pastelaxia%20cc%20fondo.png)
 
 ## Investigación
 
