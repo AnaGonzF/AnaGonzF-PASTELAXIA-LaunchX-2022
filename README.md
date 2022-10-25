@@ -1,4 +1,4 @@
-# AnaGonzF-PASTELAXIA-LaunchX-2022
+# PASTELAXIA-FrontendMission-2022
 Práctica PASTELAXIA de la FrontEnd Mission para LaunchX LATAM.
 
 Puedes ver el todo proceso de esta práctica, de inicio a fin, en el siguiente enlace:
